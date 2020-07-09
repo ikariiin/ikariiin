@@ -1,7 +1,7 @@
 ### Hai, its a me Gourab Nag
 #### aka. Ikari, SaitamaSama
 
-Banner will go here?
+![banner](https://raw.githubusercontent.com/SaitamaSama/SaitamaSama/master/banner.png)
 
 I make some projects, but my commits are very much not regular and pushes more so. I try to work on
 web / full-stack stuff, w/ react and node stuff.
