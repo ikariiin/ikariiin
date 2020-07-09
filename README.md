@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hai, its a me Gourab Nag
+#### aka. Ikari, SaitamaSama
+
+Banner will go here?
+
+I make some projects, but my commits are very much not regular and pushes more so. I try to work on
+web / full-stack stuff, w/ react and node stuff.
+
+I'm open to PRs on all of my public repos. So shoot one if you want to, and I'll be sure to review it!
+
+Thanks for checking out.
 
 <!--
 **SaitamaSama/SaitamaSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
