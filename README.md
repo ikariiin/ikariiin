@@ -4,7 +4,7 @@
 ![banner](https://raw.githubusercontent.com/SaitamaSama/SaitamaSama/master/banner.png)
 
 I make some projects, but my commits are very much not regular and pushes more so. I try to work on
-web / full-stack stuff, w/ react and node stuff.
+web / full-stack stuff, w/ react and node.
 
 I'm open to PRs on all of my public repos. So shoot one if you want to, and I'll be sure to review it!
 
