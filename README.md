@@ -1,4 +1,3 @@
-### Hai, its a me Gourab Nag
 #### aka. Ikari, SaitamaSama
 
 ![banner](https://raw.githubusercontent.com/SaitamaSama/SaitamaSama/master/banner.png)
@@ -9,6 +8,9 @@ web / full-stack stuff, w/ react and node.
 I'm open to PRs on all of my public repos. So shoot one if you want to, and I'll be sure to review it!
 
 Thanks for checking out.
+
+Reach out to me on my email: gourabnag12 [at] gmail [dot] com
+Or Discord: ikariiin
 
 <!--
 **SaitamaSama/SaitamaSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
