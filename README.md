@@ -2,10 +2,11 @@
 
 ![banner](https://raw.githubusercontent.com/SaitamaSama/SaitamaSama/master/banner.png)
 
-I make some projects, but my commits are very much not regular and pushes more so. I try to work on
-web / full-stack stuff, w/ react and node.
+I build stuff, but my commits are very much not regular, and PRs more so. I try to work on
+web / full-stack stuff, mostly with React and Node. I've worked with PHP in the past, and
+have recently picked up stuff like Go.
 
-I'm open to PRs on all of my public repos. So shoot one if you want to, and I'll be sure to review it!
+I'm open to PRs on all of my public repos. So shoot one if you want to, and I'll review it!
 
 Thanks for checking out.
 
